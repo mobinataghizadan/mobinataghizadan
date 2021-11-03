@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end dev:)
 - 🌱 I’m currently learning HTML,SCC,JS
 - 💞️ I’m looking to collaborate on build intresting website!
-- 📫 How to reach me please mail me mobinataghizadan20@gmail.com
+- 📫 How to reach me please mail me mbntaghizadan20@gmail.com
 
 <!---
 mobinataghizadan/mobinataghizadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
